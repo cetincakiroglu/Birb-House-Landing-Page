@@ -1,6 +1,6 @@
 # Birb-House-Landing-Page
 BirbHouse Concept Landing Page
-URL: https://serene-golick-9616ab.netlify.app/
+URL: https://birb-house-concept.netlify.app
 
 ---
 Designed By: **Mario Simic** 
